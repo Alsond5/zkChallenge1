@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "zkchallenge1": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/zkchallenge1.json",
+      "feepayerKeyPath": "C:\\Users\\ahmet/.cache/zkapp-cli/keys/owner.json",
+      "feepayerAlias": "owner",
+      "fee": "0.1",
+      "smartContract": "Challenge1"
+    }
+  }
 }
